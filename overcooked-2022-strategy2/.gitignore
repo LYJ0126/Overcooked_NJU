@@ -1,0 +1,11 @@
+*/*
+*.*
+!.gitignore
+!README.md
+!CMakeLists.txt
+!include/*
+!source/*
+!maps/*
+!maps/*/**
+
+
