@@ -11,3 +11,6 @@
 &emsp;&emsp;对于没有南京大学云盘的用户，可以使用下面的百度网盘链接获取
 > 链接：https://pan.baidu.com/s/1gOwKO4FL8_W4omE1ULoGdw 
 > 提取码：0721
+
+### MSYS2安装教程
+> https://ps2023-programming.github.io/start/quickstart/
