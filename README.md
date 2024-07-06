@@ -14,3 +14,6 @@
 
 ### MSYS2安装教程
 > https://ps2023-programming.github.io/start/quickstart/
+
+### B站视频讲解
+> https://b23.tv/D6QDPec
