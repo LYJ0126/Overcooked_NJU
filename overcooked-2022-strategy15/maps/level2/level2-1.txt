@@ -1,0 +1,28 @@
+10 10
+****c*****
+*........*
+*........*
+*........p
+A........$
+B........t
+C........*
+s........s
+*......._*
+***rk*****
+3
+IngredientBox 0 4 fish 0
+IngredientBox 0 5 kelp 0
+IngredientBox 0 6 rice 0
+1
+150 fish -chop-> c_fish
+14400 123456 1
+5400 50 30 c_fish
+2
+4.5 4.5
+6.5 6.5
+5
+0 7 Pot
+9 7 Pan
+1 9 Plate
+0 3 Plate
+9 2 Plate
