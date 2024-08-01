@@ -140,7 +140,7 @@ std::string deal_with_task(Task task, int player_id)
             assert(0);
             break;
     }
-    if(res.first == 1){//任务完成
+    if(res.first == 1){//子任务完成
         Players[player_id].status = available;
         if(player_id == 0) cooking.task_index++;
         else washing.task_index++;
