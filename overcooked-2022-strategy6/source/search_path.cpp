@@ -12,11 +12,16 @@ struct Node open_list[25][25];//开启列表
 int close_list[25][25];//关闭列表
 //对于横纵坐标，搜索的时候考虑圆在方格中心
 
-double H_func(Point start, Point end)//启发函数(対角距离)
+/*double H_func(Point start, Point end)//启发函数(対角距离)
 {
     double dx = ABS(start.x, end.x);
     double dy = ABS(start.y, end.y);
     return (dx + dy) + (sqrt_2 - 2) * MIN(dx, dy);
+}*/
+
+double H_func(Point start, Point end)//启发函数(曼哈顿距离)
+{
+    return ABS(start.x, end.x) + ABS(start.y, end.y);
 }
 
 void A_star_init()
