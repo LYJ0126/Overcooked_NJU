@@ -33,4 +33,4 @@ Work player1_work;//玩家1工作
 int player0_orderid;//玩家0订单号
 int player1_orderid;//玩家1订单号
 
-int reserved[20 + 5][20 + 5];//占用的位置,防止两个玩家抢同一个盘子
+int reserved[20 + 5][20 + 5];//占用的位置,0表示没有占用，1表示玩家0占用，2表示玩家1占用
