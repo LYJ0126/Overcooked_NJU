@@ -16,4 +16,4 @@
 > https://ps2023-programming.github.io/start/quickstart/
 
 ### B站视频讲解
-> https://b23.tv/D6QDPec
+> 【南京大学计算机“问题求解(四)”Overcooked 1.项目介绍】 https://www.bilibili.com/video/BV1NnhaeBEDN/?share_source=copy_web&vd_source=aec640ce8e014ccff9abe06a03093527
